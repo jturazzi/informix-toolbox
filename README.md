@@ -29,6 +29,10 @@ The Informix PDO Compilation Script (`compile_informix_pdo.sh`) facilitates the 
 
 These scripts have been successfully tested on Debian 12.
 
+## Contribution
+
+We welcome community contributions. Fork, make changes, submit a pull request.
+
 ## License
 
 This project is licensed under the [MIT](LICENSE) License.

@@ -29,6 +29,10 @@ Le script de compilation du PDO PHP Informix (`compile_informix_pdo.sh`) facilit
 
 Ces scripts ont été testés avec succès sur Debian 12.
 
+## Contribution
+
+Contributions bienvenues de la communauté. Fork, apportez des modifications, soumettez une pull request.
+
 ## Licence
 
 Ce projet est sous licence [MIT](LICENSE).
