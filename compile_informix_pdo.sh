@@ -11,8 +11,8 @@ ENDCOLOR="\e[0m"
 TOTAL_STEPS=10
 
 # Variables
-informix_pdo_version=1.3.6
-informix_pdo_url=https://pecl.php.net/get/PDO_INFORMIX-1.3.6.tgz
+informix_pdo_version=1.3.7
+informix_pdo_url=https://pecl.php.net/get/PDO_INFORMIX-1.3.7.tgz
 
 function step_message() {
     local step_number=$1
