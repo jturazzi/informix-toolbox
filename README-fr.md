@@ -3,6 +3,11 @@
 
 ## Vue d'ensemble
 
+À partir d’avril 2025, je n’assurerai plus de maintenance ni de mise à jour de ce repository, car je ne travaille plus avec Informix.
+Les pull requests resteront néanmoins ouvertes et seront examinées avec attention.
+
+Merci de votre compréhension.
+
 Le script d'Installation du SDK Informix (`install_informix_sdk.sh`) automatise la configuration du Kit de Développement Logiciel (SDK) Informix sur Debian. Il effectue les étapes suivantes :
 
 1. **Téléchargement du SDK Informix depuis le site d'IBM**.

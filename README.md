@@ -3,6 +3,11 @@
 
 ## Overview
 
+Starting April 2025, I will no longer provide maintenance or updates for this repository, as I am no longer working with Informix and Laravel.
+However, pull requests are still welcome and will be reviewed.
+
+Thank you for your understanding.
+
 The Informix SDK Installation Script (`install_informix_sdk.sh`) automates the setup of the Informix Software Development Kit (SDK) on Debian. It performs the following steps:
 
 1. **Download the Informix SDK from IBM's website**.
